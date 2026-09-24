@@ -18,6 +18,7 @@ while (front < rear)
 {
 cout << "Processing Order: " << queue[front] << endl;
 front++;
-}
+{
 return 0;
 }
+};
