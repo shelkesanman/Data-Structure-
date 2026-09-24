@@ -1,6 +1,6 @@
-[24/09, 12:44] Sanmman Manoj Shaellke: #include <iostream>
-using namespace std;
-[24/09, 12:45] Sanmman Manoj Shaellke: int main()
+#include <iostream>
+using namespace space
+int main()
 {
 int queue[5];
 int front = 0;
